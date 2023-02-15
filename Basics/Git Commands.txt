@@ -1,0 +1,6 @@
+Key Agent:
+
+-$ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"(key gen)
+
+-ls | grep name of key(see a specific key)
+-cat name of key(see the key)

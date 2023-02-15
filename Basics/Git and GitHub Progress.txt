@@ -1,0 +1,20 @@
+Git and GitHub for Beginners - Crash Course(https://www.youtube.com/watch?v=RGOj5yH7evk):
+-done Introduction
+-done What is Git
+-done What is Version Control
+-done Terms
+-done Sign Up in GitHub
+-done Using git in VM
+-done Git Install
+-done Getting Code Editor
+-done Inside VS Code
+-done Cloning through VS Code
+-done Git Commit Command
+-done Git Add Command
+-done Git Push Command
+-done SSH Keys
+-done Git Push
+-done Github Flow vs Local Flow
+-done Git Branching
+-done Undoing in Git
+-done Forking
